@@ -1,0 +1,14 @@
+body {
+	padding : 0;
+}
+
+.map {
+	position :relative;
+	display :inline-block;
+}
+
+.marker {
+	position: absolute;
+	/*top:0px;
+	left: 0px;*/
+}
